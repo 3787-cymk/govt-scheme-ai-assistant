@@ -1,29 +1,31 @@
 fastapi
 uvicorn
+starlette
 pydantic
 python-multipart
 python-dotenv
 
 langchain
-langchain-community
 langchain-core
+langchain-community
 langchain-text-splitters
 langchain-huggingface
+langchain-google-genai
 
 chromadb
 sentence-transformers
 transformers
 torch
-
 huggingface-hub
+
 numpy
+scikit-learn
+tqdm
 requests
+
+beautifulsoup4
+selenium
 
 google-generativeai
 google-api-core
 google-cloud-texttospeech
-
-beautifulsoup4
-selenium
-tqdm
-scikit-learn
